@@ -1,1 +1,1 @@
-# Tuples are immutable so you cannot add elements after their creation
+# Tuples are immutable so we cannot add elements after their creation
